@@ -1,0 +1,6 @@
+{
+  "name": "KinetiLab Arena — Kuis Interaktif Laju Reaksi",
+  "description": "Website kuis kimia interaktif bergaya Kahoot & Wayground dengan 30 soal materi Laju Reaksi dan mini-game laboratorium kimia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
